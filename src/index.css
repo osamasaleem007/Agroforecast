@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: -webkit-linear-gradient(225deg, rgb(238, 218, 248) 0%, rgb(215, 238, 247) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#F9FEFF", endColorstr="#E9G5F8", GradientType=1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: Poppins;
+}
